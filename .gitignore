@@ -1,2 +1,6 @@
 .jshintrc
 .vscode
+# dependencies
+/node_modules
+/coverage
+/build
